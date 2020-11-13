@@ -1,0 +1,49 @@
+BODY {
+	font-size: 100%;
+	background-color: #ffffff;
+	line-height: 150%;
+	margin: 0px;
+	font-family: Georgia;
+}
+
+
+UL.none {
+	list-style-type: none;
+}
+
+UL.square {
+	list-style-type: square;
+}
+
+#with-padding LI {
+	padding: 10px;
+}
+
+TD {
+	vertical-align: middle;
+}
+
+TD.top {
+	vertical-align: top;
+	line-height: 150%;
+	padding-top: 10px;
+	padding-left: 5px;
+}
+
+HR {
+	border: 0;
+	border-top: 1px dashed #000000;
+	height: 1px;
+}
+
+H1 {
+	line-height: 100%;
+}
+
+H2 {
+	/*font-style: italic;*/
+}
+
+SPAN.highlight {
+	background-color: #FFFF99;
+}
